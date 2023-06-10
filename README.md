@@ -37,3 +37,9 @@ Now what if a person can see whatever a robot see, enhanced with image processin
 
 4- 1.44 Inch LCD Display Wiki. Setups and Drivers Installation
 - https://www.waveshare.com/wiki/1.44inch_LCD_HAT
+
+5- IP Camera path and protocol type
+http://www.ispyconnect.com/camera/v380
+
+6- RTSP Protocol Setup
+https://help.dayta.ai/knowledge-base/how-do-i-get-the-rtsp-stream-url-from-my-camera/
