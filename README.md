@@ -43,3 +43,6 @@ Now what if a person can see whatever a robot see, enhanced with image processin
 
 6- RTSP Protocol Setup
 - https://help.dayta.ai/knowledge-base/how-do-i-get-the-rtsp-stream-url-from-my-camera/
+
+7- Capture window using opencv
+- https://learncodebygaming.com/blog/fast-window-capture
