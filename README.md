@@ -46,3 +46,10 @@ Now what if a person can see whatever a robot see, enhanced with image processin
 
 7- Capture window using opencv
 - https://learncodebygaming.com/blog/fast-window-capture
+
+8- Using wmctrl to control which windows is focused. Install using apt-get install wmctrl
+- https://stackoverflow.com/questions/56693428/capturing-screenshot-of-running-programs-in-linux-using-python
+- -https://linux.die.net/man/1/wmctrl
+
+9- Use scrot to screenshot the screen. Install using apt-get install scrot
+- https://man.archlinux.org/man/scrot.1
